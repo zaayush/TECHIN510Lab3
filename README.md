@@ -1,6 +1,6 @@
-## TECHIN510Lab
+## TECHIN510Lab3
 
-A personal website for TECHIN 510 Lab 1.
+A personal Task manager App.
 
 ## How to Run
 
