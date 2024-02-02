@@ -9,10 +9,10 @@ Open the terminal and run the following commands:
 ```
 python -m venv venv
 source venv/bin/activate
-pip install streamlit
+pip install -requirements.txt
 streamlit run app.py
 ```
-Or just go the link : [Personal Portfolio]( )
+Or just go the link : [Personal Portfolio](https://techin510lab3-aayush.azurewebsites.net/)
 
 ## What's Included
 
