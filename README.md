@@ -9,7 +9,7 @@ Open the terminal and run the following commands:
 ```
 python -m venv venv
 source venv/bin/activate
-pip install -requirements.txt
+pip install -r requirements.txt
 streamlit run app.py
 ```
 Or just go the link : [Task Manager App](https://techin510lab3-aayush.azurewebsites.net/)
