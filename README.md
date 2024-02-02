@@ -12,7 +12,7 @@ source venv/bin/activate
 pip install -requirements.txt
 streamlit run app.py
 ```
-Or just go the link : [Personal Portfolio](https://techin510lab3-aayush.azurewebsites.net/)
+Or just go the link : [Task Manager App](https://techin510lab3-aayush.azurewebsites.net/)
 
 ## What's Included
 
